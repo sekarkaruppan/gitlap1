@@ -1,6 +1,6 @@
 # TestGitLabProject
 
-Read me version 3
+Read me version 4
 
 ## Getting started
 
